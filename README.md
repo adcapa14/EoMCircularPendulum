@@ -3,7 +3,7 @@ This script calculates the motion of a pendulum which anchor point is moving in 
 1) The angular velocity ($\dot{\phi}$) has a linear behavior in time.
 
 By executing it, you'll have 4 plots. The plots show the evolution in time of:
-1) The angle \theta, the pendullum angle.
+1) The angle $\theta$, the pendulum angle.
 2) Angular velocity, defined as $\dot{\theta}$.
 3) (Potential, Kinetic and Yotal) energy.
 4) The motion of the pendulum in the xy-plane.
